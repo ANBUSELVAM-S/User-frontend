@@ -50,7 +50,7 @@ export default function HostelFaultReportingPortal() {
       !formData.categories ||
       !formData.queries
     ) {
-      alert("Please fill in all required fields.");
+      alert(" ❌Please fill in all required fields.");
       return;
     }
     console.log("Feedback submitted:", formData);
