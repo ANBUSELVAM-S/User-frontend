@@ -1,0 +1,37 @@
+{
+  "carpenter": [
+    "Wear eye/ear protection and dust mask.",
+    "Measure and mark accurately; verify with a square.",
+    "Choose correct material and fasteners for the load.",
+    "Cut, dry-fit, then fasten; check alignment.",
+    "Sand, finish, and inspect for sharp edges."
+  ],
+  "restroom": [
+    "Wear gloves and ensure adequate ventilation.",
+    "Turn off water if servicing fixtures.",
+    "Inspect and clean sinks, toilets, and mirrors.",
+    "Disinfect high-touch surfaces and restock supplies.",
+    "Report leaks or damage to maintenance."
+  ],
+  "electrical": [
+    "Turn off power at the breaker and verify with a tester.",
+    "Do not touch exposed conductors; avoid damp areas.",
+    "Visually inspect for burns, loose connections, or damage.",
+    "If unsure or unlicensed, contact a certified electrician.",
+    "Restore power and test only when it is safe."
+  ],
+  "vending_machine": [
+    "Disconnect/lock out power before servicing.",
+    "Unlock panels; restock items and check expiry dates.",
+    "Clear jams; run built-in diagnostics if available.",
+    "Collect/record cashless logs per policy.",
+    "Close panels securely; restore power and test vend."
+  ],
+  "plumbing": [
+    "Shut off water supply; relieve pressure at a faucet.",
+    "Wear gloves; protect surrounding surfaces.",
+    "Identify leak/clog and select appropriate tools.",
+    "Replace worn parts (washers, traps) or clear blockage.",
+    "Turn water on slowly and check for leaks."
+  ]
+}

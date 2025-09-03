@@ -164,9 +164,13 @@ export default function HostelFaultReportingPortal() {
                 accept="image/*"
                 onChange={handleChange}
               />
+              
             </div>
             <div className="form-group">
-              <div id="display"></div>
+              <div id="display"><div class="result" id="result" hidden>
+      
+      <p><span id="label"></span></p>
+    </div></div>
             </div>
             <div className="form-group">
               <select
