@@ -166,6 +166,9 @@ export default function HostelFaultReportingPortal() {
               />
             </div>
             <div className="form-group">
+              <div id="display"></div>
+            </div>
+            <div className="form-group">
               <select
                 id="categories"
                 value={formData.categories}
